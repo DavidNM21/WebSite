@@ -1,0 +1,28 @@
+
+
+body{margin:0;}
+
+h1{margin:0;}
+
+.top-container{height:180px;
+  width: 180px;
+background-color:blue;
+border-width:10px;
+border-style: solid;
+border-color:black;
+}
+
+.middle-container{height: 160px;
+  width: 160px;
+  border-width:20px;
+  margin-left:200px;
+  border-style: solid;
+background-color:red;}
+
+
+.bottom-container{height: 180px;
+  width: 180px;
+  border-width:10px;
+  margin-left:400px;
+  border-style: solid;
+background-color:yellow;}
